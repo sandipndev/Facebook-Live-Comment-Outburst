@@ -1,0 +1,14 @@
+{
+  "name": "facebook-live-comment-outburst",
+  "version": "1.0.0",
+  "description": "",
+  "main": "liveposter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eventsource": "^1.0.7"
+  }
+}
